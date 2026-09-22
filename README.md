@@ -16,4 +16,4 @@ Non richiede installazioni, dipendenze o build. Per un'anteprima locale, apri `i
 - `index.html` — contenuti e struttura
 - `styles.css` — identità visiva e responsive design
 - `script.js` — menu mobile, animazioni di entrata e indicatore di lettura
-- `assets/` — copertina e illustrazioni originali del libro
+- `copertina.jpg`, `civetta-verifica.png`, `conversazione.png` — copertina e illustrazioni originali del libro
